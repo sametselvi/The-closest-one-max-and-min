@@ -31,8 +31,8 @@ public class Main {
             }
 
         }
-        System.out.println("Minimum değeri : " + min);
-        System.out.println("Maximum değeri : " + max);
+        System.out.println("The closest one as a minimum  : " + min);
+        System.out.println("The closest one as a maximum : " + max);
     }
 }
 
